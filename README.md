@@ -27,6 +27,7 @@ Utiliza o framework <a href = "https://www.i18next.com/" target="_blank">i18next
 
 ## Setup
 <a name="setup"/>
+
 - Ferramentas necessárias:
   - Visual studio Code
   - Git
