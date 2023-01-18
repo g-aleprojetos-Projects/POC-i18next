@@ -6,7 +6,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/g-aleprojetos-Projects/POC-i18next?style=plastic)
 
 ## Introdução
-Utiliza o framework <a href = "https://www.i18next.com/" target="_blank">i18next</a> em um projeto <a href = "https://pt-br.reactjs.org/" target="_blank">React</a> executado 100% dos testes. 
+Utiliza o framework <a href = "https://www.i18next.com/" target="_blank">i18next</a> em um projeto <a href = "https://pt-br.reactjs.org/" target="_blank">React</a> com testes. 
 
 ## i18next
 <a href = "https://www.i18next.com/" target="_blank">i18next</a> é um framework de internacionalização escrito em JavaScript. Com ela você deixa seu site multilíngue.
