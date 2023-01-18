@@ -1,0 +1,124 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App.styles Botao DEVE ser igual ao snapshot 1`] = `
+.c0 {
+  width: 100px;
+  height: 30px;
+  margin: 10px;
+  background-color: #aaa;
+}
+
+<button
+  className="c0"
+/>
+`;
+
+exports[`App.styles Botao DEVE ser igual ao snapshot QUANDO "escolhido" for igual a true 1`] = `
+.c0 {
+  width: 100px;
+  height: 30px;
+  margin: 10px;
+  background-color: #aff;
+}
+
+<button
+  className="c0"
+/>
+`;
+
+exports[`App.styles Container DEVE ser igual ao snapshot 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+<div
+  className="c0"
+/>
+`;
+
+exports[`App.styles Header DEVE ser igual ao snapshot 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+  -ms-flex-pack: end;
+  justify-content: flex-end;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  width: 100%;
+  height: 100px;
+  background-color: #202024;
+}
+
+<div
+  className="c0"
+/>
+`;
+
+exports[`App.styles Item DEVE ser igual ao snapshot 1`] = `
+.c0 {
+  margin: 10px;
+}
+
+<a
+  className="c0"
+/>
+`;
+
+exports[`App.styles Main DEVE ser igual ao snapshot 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+<div
+  className="c0"
+/>
+`;
+
+exports[`App.styles Nav DEVE ser igual ao snapshot 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  padding-right: 30px;
+}
+
+<nav
+  className="c0"
+/>
+`;
+
+exports[`App.styles Texto DEVE ser igual ao snapshot 1`] = `
+.c0 {
+  font-size: 15px;
+  color: #fff;
+  cursor: pointer;
+}
+
+<p
+  className="c0"
+/>
+`;
