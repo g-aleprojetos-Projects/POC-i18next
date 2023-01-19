@@ -67,7 +67,7 @@ yarn test
 <a name="coverage"/>
 
 ```bash
-yarn run test --coverage
+yarn run test --coverage --watchAll
 ```
 ### Links
 <a name="links"/>
