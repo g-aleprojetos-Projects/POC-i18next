@@ -23,7 +23,7 @@ Utiliza o framework <a href = "https://www.i18next.com/" target="_blank">i18next
 
 ## i18next
 <a name="i18n"/>
-<a href = "https://www.i18next.com/" target="_blank">i18next</a> é um framework de internacionalização escrito em JavaScript. Com ela você deixa seu site multilíngue.
+<a href = "https://www.i18next.com/" target="_blank">i18next</a> é uma biblioteca de internacionalização (i18n) para aplicativos web e móveis. Ele permite que você adicione suporte a vários idiomas em seu aplicativo, gerencie suas traduções e altere dinamicamente o idioma do aplicativo. Ele é compatível com vários frameworks JavaScript, incluindo React, Angular, Vue e outros. Ele também suporta aplicativos server-side com Node.js. Ele é uma das bibliotecas mais populares e completas para internacionalização no ecossistema JavaScript.
 
 ## Setup
 <a name="setup"/>
