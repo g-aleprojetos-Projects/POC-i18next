@@ -49,21 +49,21 @@ Utiliza o framework <a href = "https://www.i18next.com/" target="_blank">i18next
 yarn install
 ```
 
-### Rodar o projeto
+### Executar o projeto
 <a name="projeto"/>
 
 ```bash
 yarn start
 ```
 
-### Rodar os testes
+### Executar os testes
 <a name="teste"/>
 
 ```bash
 yarn test
 ```
 
-### Rodar os testes e emite o reatório coverage
+### Executar os testes e emite o reatório coverage
 <a name="coverage"/>
 
 ```bash
